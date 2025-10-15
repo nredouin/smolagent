@@ -7,12 +7,16 @@ Ce projet contient un atelier interactif Jupyter pour découvrir **Smolagents**,
 ## 🚀 Démarrage rapide
 
 ### 1️⃣ Créer l’environnement virtuel  
+
+
 Depuis le dossier du projet :
 
 Pour Linux :
 
 chmod +x setup.sh
+
 ./setup.sh
+
 source smolagents_env/bin/activate
 
 Puis suivre les étapes pour lancer le notebook avec cet environnement
@@ -90,3 +94,4 @@ model_id = "mistralai/Mistral-7B-Instruct-v0.3"
 
 ### ✨ Auteur  
 Projet éducatif basé sur **Smolagents** – destiné à l’apprentissage des agents LLM et de la création de tools intelligents.
+
